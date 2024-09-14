@@ -1,0 +1,21 @@
+.Results {
+  background-color: white;
+  max-width: 75%;
+}
+
+.form {
+  margin: 20px 0;
+}
+
+.word {
+  font-size: 30px;
+}
+.phonetic {
+  font-size: 20px;
+  font-style: italic;
+  color: grey;
+}
+.partOfSpeech {
+  font-size: 18px;
+  font-weight: bold;
+}

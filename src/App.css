@@ -1,5 +1,13 @@
+.App {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+body {
+  background-color: #caf6f7;
+}
+
 .App-header {
-  margin: 30px 0;
+  width: 150px;
+  margin: 20px auto;
 }
 
 .App-logo {
