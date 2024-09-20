@@ -10,7 +10,7 @@
   max-width: 100%;
 }
 .Dictionary h1 {
-  font-size: 23px;
+  font-size: 21px;
 }
 .Dictionary input {
   width: 100%;
@@ -27,6 +27,7 @@ section .hint {
 
 .word {
   font-size: 30px;
+  text-transform: capitalize;
   background-color: white;
   max-width: 100%;
   border-radius: 7px;
