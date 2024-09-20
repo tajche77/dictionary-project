@@ -1,4 +1,4 @@
-section {
+.Dictionary section {
   margin: 20px 0;
   border-radius: 7px;
   display: block;
@@ -9,9 +9,17 @@ section {
   box-shadow: 0 5px 15px rgb(0 0 0 / 15%);
   max-width: 100%;
 }
-h1 {
+.Dictionary h1 {
   font-size: 23px;
 }
+.Dictionary input {
+  width: 100%;
+  border-radius: 6px;
+  padding: 6px 10px;
+  color: #333;
+  border: 1px solid #ddd;
+}
+
 section .hint {
   color: grey;
   font-size: 8px;
