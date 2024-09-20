@@ -7,24 +7,20 @@ section {
   padding: 20px;
   margin: 20px 0;
   box-shadow: 0 5px 15px rgb(0 0 0 / 15%);
-  max-width: 85%;
+  max-width: 100%;
+}
+h1 {
+  font-size: 23px;
 }
 section .hint {
   color: grey;
   font-size: 8px;
 }
-.Meaning {
-  background-color: white;
-  max-width: 85%;
-  border-radius: 7px;
-  padding: 20px;
-  margin: 20px 0;
-  box-shadow: 0 5px 15px rgb(0 0 0 / 15%);
-}
+
 .word {
   font-size: 30px;
   background-color: white;
-  max-width: 85%;
+  max-width: 100%;
   border-radius: 7px;
   padding: 10px;
   margin: 20px 0;
@@ -34,8 +30,4 @@ section .hint {
   font-size: 20px;
   font-style: italic;
   color: grey;
-}
-.partOfSpeech {
-  font-size: 18px;
-  font-weight: bold;
 }

@@ -6,14 +6,13 @@ body {
 }
 
 .App-header {
-  width: 150px;
+  width: 300px;
   margin: 20px auto;
 }
 
 .App-logo {
-  max-width: 200px;
-  display: block;
-  margin: 0 auto;
+  max-width: 300px;
+  text-align: center;
 }
 .App-footer {
   text-align: center;
